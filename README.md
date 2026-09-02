@@ -26,21 +26,46 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-### 💻 Technology Stack:
-Languages
+## 💻 Technology Stack
+
+ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php" />
+  <img src="https://skillicons.dev/icons?i=html,js,ts,cpp,php" />
 </p>
 
-### Frontend
+###  CSS Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap" />
 </p>
 
-### Tools & Technologies
+###  JavaScript Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+###  Database & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
+</p>
+
+###  Deployment Platform
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+###  Design & Graphics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+###  Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
