@@ -7,12 +7,11 @@
    I build modern, responsive and user-friendly web applications.
 
 ## About Me
-- 🔭 Hii,I'm @Rozaeng
+- 🔭 Hii,I'm  **[@Rozaeng](https://github.com/Rozaeng)**
 - 🌱 I’m currently working React,Next.js,MongoDB for fortend development.
 - 👯 I’m currently learning javaScript,typeScript,html,css.
 - 💬 Ask me about Full-Stack(React,Next-js,mongoDB,TypeScript).
--  📫 How to reach me: **[Rozaeng](https://github.com/Rozaeng)** | [roja89058@gmail.com](mailto:roja89058@gmail.com)
-
+-  📫 How to reach me: **[Email](Rozaeng@gmail.com)**
   ## 🌐 FOLLOW ME ON SOCIALS:
  
 
