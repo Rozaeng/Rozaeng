@@ -1,10 +1,10 @@
 ![Roza Akter - Full Stack Web Developer](./github-banner.jpeg)
 
- #                        Hi, I'm Roza Akter 👋
+   #    Hi, I'm Roza Akter 👋
 
-  ###                     Full Stack Web Developer
+  ###  Full Stack Web Developer
 
-                         I build modern, responsive and user-friendly web applications.
+   I build modern, responsive and user-friendly web applications.
 
 <!--
 **Rozaeng/Rozaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
