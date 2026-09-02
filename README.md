@@ -17,7 +17,6 @@
  
 
 <p>
- 
 
   <a href="https://www.facebook.com/share/19UeshXSJj/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -27,6 +26,21 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
+### 💻 Technology Stack:
+Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php" />
 </p>
-  
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
