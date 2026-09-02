@@ -11,5 +11,5 @@
 - 🌱 I’m currently working React,Next.js,MongoDB for fortend development.
 - 👯 I’m currently learning javaScript,typeScript,html,css.
 - 💬 Ask me about Full-Stack(React,Next-js,mongoDB,TypeScript).
-- 📫 How to reach me: Rozaeng Email
+-  📫 How to reach me: **[Rozaeng](https://github.com/Rozaeng)** | [roja89058@gmail.com](mailto:roja89058@gmail.com)
   
