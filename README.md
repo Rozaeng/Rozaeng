@@ -20,12 +20,43 @@
 <a href="https://fb.com/puspita afrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="puspita afrin" height="30" width="40" /></a>
 <a href="https://instagram.com/rosey_afrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rosey_afrin" height="30" width="40" /></a>
 </p>
+<h3 align="left">TECHNOLOGY STACK:</h3>
 
-<h3 align="left">TECHNOLOGY  STACK:</h3>
 <h2 align="left">Languages</h2>
-<p align="left">
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> [![My Skills](https://skillicons.dev/icons?i=js,html,css,Javascript,typeScript)](https://skillicons.dev) </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,java,html" />
+</p>
+
+<h2 align="left">CSS Frameworks & Libraries</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css,tailwind,sass,bootstrap,materialui" />
+</p>
+
+<h2 align="left">JavaScript Frameworks & Libraries</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express" />
+</p>
+
+<h2 align="left">Database & Backend</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,prisma" />
+</p>
+
+<h2 align="left">Design & Graphics</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ai,ps,figma" />
+</p>
+
+<h2 align="left">Tools & Technologies</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,windows,docker,postman,npm,vercel" />
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rozaeng&show_icons=true&locale=en&layout=compact" alt="rozaeng" /></p>
 
