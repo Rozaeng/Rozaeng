@@ -2,13 +2,13 @@
 
   <h1 align="center">Hi 👋, I'm Roza Akter</h1>
 
-<h2 align="center">Full Stack Web Developer.I build modern, responsive and user-friendly web applications.</h2>
+<h3 align="center">Full Stack Web Developer.I build modern, responsive and user-friendly web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozaeng&label=Profile%20views&color=0e75b6&style=flat" alt="rozaeng" /><p/>
 <h3 align="left">About Me:</h3>
 <p align="left">
   
--🎓Hii,I'm CSE Student
+ 🎓Hii,I'm CSE Student
 - 🔭 I’m currently working on **React,Next.js,MongoDB for fortend development.**
 - 🍀I'm also interested in **Cyber Security.**
 - 🌱 I’m currently learning **javaScript,typeScript,html,css.**
@@ -63,14 +63,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozaeng&" alt="rozaeng" /></p>
 
-## 💭 Quote
+##  Quote
 
 <p align="center">
   <i>"The only way to do great work is to love what you do."</i>
 </p>
 
----
 
-<h3 align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</h3>
+
+
