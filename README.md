@@ -2,7 +2,7 @@
 
   <h1 align="center">Hi 👋, I'm Roza Akter</h1>
 
-<h1 align="center">Full Stack Web Developer.<h1 align="center"> I build modern, responsive and user-friendly web applications.</h3>
+<h2 align="center">Full Stack Web Developer.I build modern, responsive and user-friendly web applications.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozaeng&label=Profile%20views&color=0e75b6&style=flat" alt="rozaeng" /><p/>
 <h3 align="left">About Me:</h3>
